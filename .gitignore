@@ -1,0 +1,67 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+node_modules/
+build/
+dist/
+out/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment configuration files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.prod
+
+# Ignore example files
+!.env.example
+!private-key.example.json
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Package manager files
+npm-debug.log
+yarn-error.log
+
+# Security-sensitive files
+*.pem
+*.key
+*.p12
+private-key.json
+
+# Config files
+*.config.js
+
+# Ignore all .class files
+*.class
+
+# Visual Studio Code directories
+.vscode/
+
+# macOS metadata
+.AppleDouble
+.DS_Store
+
+# Thumbnails
+._*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
