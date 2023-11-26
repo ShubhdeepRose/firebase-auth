@@ -1,4 +1,4 @@
-# Project Name
+# FireBase Auth
 
 ## Create a New Private Key
 
